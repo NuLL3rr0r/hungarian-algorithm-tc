@@ -1,7 +1,7 @@
 Hungarian Algorithm in Turbo C 3.0
 ==================================
 
-Hungarian algorithm implementation in Turbo C 3.0
+Hungarian algorithm implementation in Turbo C++ 3.0
 
 
 ## License
